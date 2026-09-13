@@ -1,1 +1,1 @@
-{"version":"0.21.3","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Видно, что помощник работает и сколько занял ответ; тихий индикатор заполнения окна модели над полем ввода. Обновление необязательное.","mandatory":false}
+{"version":"0.21.4","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"След работы под ответом — одной строкой с именами шагов, полный список по клику; заполнение окна модели — кружок у выбора модели. Обновление необязательное.","mandatory":false}
