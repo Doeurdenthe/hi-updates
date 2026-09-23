@@ -1,1 +1,1 @@
-{"version":"0.23.2","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Согласование заявки на оплату через карточку; планерка читает выгрузку формы менеджеров.","mandatory":false}
+{"version":"0.23.3","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Отчет к планерке: отрасль «В списке»/«В группе» и «пром-ть» больше не срывают колоду, экспорт с нулевым НДС не мешает разбивке по контрагентам, записка про дату среза называет что сделать","mandatory":false}
