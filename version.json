@@ -1,1 +1,1 @@
-{"version":"0.24.0","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Корпоративный контур на GigaChat 3.5 Reasoning; документы, папка и расчет кодом у моделей с вызовом функций; формулы Excel в генераторе","mandatory":false}
+{"version":"0.25.0","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"0.25.0: пустой ответ модели не ломает разговор, файл без содержимого и намерение без вызова переспрашиваются, генератор терпимее к форме данных и не оставляет недописанных файлов","mandatory":false}
