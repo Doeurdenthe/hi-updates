@@ -1,1 +1,1 @@
-{"version":"0.23.7","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Модели DeepSeek по актуальному списку (V4.1 Flash и V4 Pro), глубина размышления в четыре уровня, пометка «распознан» у сканов, исправления","mandatory":false}
+{"version":"0.24.0","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Корпоративный контур на GigaChat 3.5 Reasoning; документы, папка и расчет кодом у моделей с вызовом функций; формулы Excel в генераторе","mandatory":false}
