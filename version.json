@@ -1,1 +1,1 @@
-{"version":"0.26.2","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Помощник отвечает о себе по встроенной справке: что умеет, какая модель отвечает, как подключить Битрикс24 и почту, что подключено у Вас.","mandatory":false}
+{"version":"0.26.3","url":"https://github.com/Doeurdenthe/hi-updates/releases/latest","notes":"Установщик больше не может стереть переписку. ВАЖНО: при установке не ставьте галочку «Удалить данные приложения» — у прежних версий она стирает переписку.","mandatory":false}
